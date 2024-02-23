@@ -17,10 +17,10 @@ website:
     left:
       - text: "Projects"
         href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
-      - text: "CV"
-        href: cv/index.qmd
+      - text: "R Crash Course"
+        href: R-Crash-Course/index.qmd
+      - text: "About"
+        href: About/index.qmd
     
     # your social media handles
     right:
@@ -42,7 +42,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; 2023 Fernerkundung und Geoinformatik 1.0</span>
     center: |
       <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
     right: |

@@ -1,0 +1,29 @@
+::: {#main .site-main role="main"}
+::: entry-header
+# R Crash Course {#r-crash-course .entry-title}
+:::
+
+::: entry-content
+This is a R crash course for anyone who previously had no or very little contact with script-based programming. It should establish the basic understanding needed for upcoming chapters.\
+You are an old hand in R programming and do not need this introduction? -- Skip this section and jump to the [next](https://blogs.fu-berlin.de/reseda/acquire/)!
+
+In order to deepen your knowledge, in particular with a view to statistical analysis, we recommend the advanced elearning course [SOGA](https://www.geo.fu-berlin.de/en/v/soga/index.html){target="_blank" rel="noopener"} (Softwaregestützte Geodatenanalyse). User name and password for SOGA are "ilovestats" in a single word. Of course, there are lots of advanced [tutorials](https://www.rstudio.com/online-learning/#R){target="_blank" rel="noopener"} and relevant [literature](https://cran.r-project.org/doc/manuals/R-intro.pdf){target="_blank" rel="noopener"} out there, which should not go unmentioned here.
+
+::: {style="background-color: #f1f1f1;padding: 18px 30px 1px"}
+# Crash Course in a Box
+
+We subdivided this crash course into several sections. At the end of most sections you will get to test your knowledge with coding exercises (E)!
+
+[1 Package Management](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch1)\
+[2 Calculate With R](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch2)\
+[3 Variables](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch3)\
+[4 Functions](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch4) + [E I](https://blogs.fu-berlin.de/reseda/e01/)\
+[5 Vectors](https://blogs.fu-berlin.de/reseda/r-crash-course-2/#ch5) + [E II](https://blogs.fu-berlin.de/reseda/e02/)\
+[6 Matrices](https://blogs.fu-berlin.de/reseda/r-crash-course-3/#ch6) + [E III](https://blogs.fu-berlin.de/reseda/e03/)\
+[7 Lists](https://blogs.fu-berlin.de/reseda/r-crash-course-4/#ch7)\
+[8 Dataframes](https://blogs.fu-berlin.de/reseda/r-crash-course-4/#ch8) + [E IV](https://blogs.fu-berlin.de/reseda/e04/)\
+[9 Missing values](https://blogs.fu-berlin.de/reseda/r-crash-course-5/#ch9)\
+[10 Control Structures](https://blogs.fu-berlin.de/reseda/r-crash-course-5/#ch10) + [E V](https://blogs.fu-berlin.de/reseda/e05/)
+:::
+:::
+:::
