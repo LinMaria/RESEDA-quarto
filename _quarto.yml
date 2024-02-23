@@ -2,7 +2,7 @@
 
 # website settings
 website:
-  title: "RESEDA_quarto"                                # Your name
+  title: "RESEDA"                                # Your name
   description: "RESEDA - Basics of remote sensing"   # A brief slogan (optional)
   image: img/reseda-logo.png
   
