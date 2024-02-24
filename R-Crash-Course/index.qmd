@@ -1,5 +1,3 @@
-
-
 ::: {#main .site-main role="main"}
 ::: entry-header
 # R Crash Course {#r-crash-course .entry-title}
@@ -16,16 +14,35 @@ In order to deepen your knowledge, in particular with a view to statistical anal
 
 We subdivided this crash course into several sections. At the end of most sections you will get to test your knowledge with coding exercises (E)!
 
-[1 Package Management](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch1)\
-[2 Calculate With R](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch2)\
-[3 Variables](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch3)\
-[4 Functions](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch4) + [E I](https://blogs.fu-berlin.de/reseda/e01/)\
-[5 Vectors](https://blogs.fu-berlin.de/reseda/r-crash-course-2/#ch5) + [E II](https://blogs.fu-berlin.de/reseda/e02/)\
-[6 Matrices](https://blogs.fu-berlin.de/reseda/r-crash-course-3/#ch6) + [E III](https://blogs.fu-berlin.de/reseda/e03/)\
-[7 Lists](https://blogs.fu-berlin.de/reseda/r-crash-course-4/#ch7)\
-[8 Dataframes](https://blogs.fu-berlin.de/reseda/r-crash-course-4/#ch8) + [E IV](https://blogs.fu-berlin.de/reseda/e04/)\
-[9 Missing values](https://blogs.fu-berlin.de/reseda/r-crash-course-5/#ch9)\
-[10 Control Structures](https://blogs.fu-berlin.de/reseda/r-crash-course-5/#ch10) + [E V](https://blogs.fu-berlin.de/reseda/e05/)
+1.  [Part I](./Part-I/index.qmd) + [E I](./Part-I/R%20-%20Excercise%20I):
+
+    1.  Package Management
+
+    2.  Calculate With R
+
+    3.  Variables
+
+    4.  Functions
+
+2.  [Part II](./Part-II/index.qmd) + [E II](./Part-I/R%20-%20Excercise%20II):
+
+    1.  Vectors
+
+    2.  Factors
+
+3.  [Part III](./Part-III/index.qmd) + [E III](./Part-I/R%20-%20Excercise%20III):
+
+    1.  Matrices
+
+4.  [Part IV](./Part-IV/index.qmd) + [E IV](./Part-I/R%20-%20Excercise%20IV):
+
+    1.  Lists
+
+5.  [Part V](./Part-V/index.qmd) + [E V](./Part-I/R%20-%20Excercise%20V):
+
+    1.  Missing values
+
+    2.  Control structures
 :::
 :::
 :::

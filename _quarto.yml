@@ -38,7 +38,7 @@ website:
     - title: "R Crash Course"
       style: "docked"
       background: light
-      contents: auto 
+      contents: R-Crash-Course 
   
 
 # Don't touch unless you know what you are doing :) ------------

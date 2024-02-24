@@ -1,12 +1,6 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 ::: {#main .site-main role="main"}
 ::: entry-header
-# R Crash Course Part III {#r-crash-course-part-iii .entry-title}
+# Part III {#r-crash-course-part-iii .entry-title}
 :::
 
 ::: entry-content

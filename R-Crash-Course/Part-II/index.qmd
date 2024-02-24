@@ -1,6 +1,6 @@
 ::: {#main .site-main role="main"}
 ::: entry-header
-# R Crash Course Part II {#r-crash-course-part-ii .entry-title}
+# Part II {#r-crash-course-part-ii .entry-title}
 :::
 
 ::: entry-content
