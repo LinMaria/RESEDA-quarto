@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 ::: {#main .site-main role="main"}
 ::: entry-header
 # About {#about .entry-title}

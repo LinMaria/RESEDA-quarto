@@ -33,7 +33,12 @@ website:
       - icon: envelope
         aria-label: email
         href: "mailto:mail.marvinschmitt@gmail.com"  
-  
+        
+  sidebar: 
+    - title: "R Crash Course"
+      style: "docked"
+      background: light
+      contents: auto 
   
 
 # Don't touch unless you know what you are doing :) ------------

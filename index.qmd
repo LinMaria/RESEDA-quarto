@@ -1,5 +1,6 @@
 ---
 page-layout: full
+sidebar: false
 image: "img/reseda-logo.png"
 about:
   template: trestles

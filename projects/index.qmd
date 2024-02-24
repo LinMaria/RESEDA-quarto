@@ -1,5 +1,6 @@
 ---
 title: Projects
+sidebar: false
 ---
 
 ## The Languages of Middle-earth
