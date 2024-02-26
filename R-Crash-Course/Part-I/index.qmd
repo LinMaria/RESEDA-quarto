@@ -1,29 +1,33 @@
+---
+execute:
+  echo: false
+---
+
 ::: {#main .site-main role="main"}
 ::: entry-header
 # Part I {#r-crash-course-part-i .entry-title}
 :::
 
 ::: entry-content
-
 # 1. Package Management
 
 Packages are collections of functions and compiled code written by the R community or the [R Development Core Team](https://www.r-project.org/contributors.html). R comes with a standard set of packages, e.g., *base*, *stats*, and *graphics*. However, R is enormously expandable in its (geo-)statistical functionality via the official network CRAN (The Comprehensive R Archive Network). There are over 11,000 different extensions, or packages, available free of charge. The directory, where installed packages are stored, is called library.\
-Your can install new packages to your library by clicking on the **Packages**-tab and then **Install** in the Files Pane of R-Studio. Anyway, download and installation of packages can also be done script-based via the function [install.packages()]{.crayon-inline} (illustrated using the [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf) package, which is useful for creating elegant data visualisations):
+Your can install new packages to your library by clicking on the **Packages**-tab and then **Install** in the Files Pane of R-Studio. Anyway, download and installation of packages can also be done script-based via the function [install.packages()]{.crayon-inline} (illustrated using the [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf) package, which is useful for creating elegant data visualizations):
 
-``` r
+```r
 install.packages("ggplot2")
 
 library()
 ```
 
-The function [library()]{.crayon-inline} in line 3 lists all currently installed packages on your system. This list is also visible in the Files Pane of R-Studio (Packages tab). If problems arise, make sure VirtualBox has access to the internet and is not blocked by a firewall on your host system. Keep in mind that packages must be installed only once and remain permanently installed, even after a restart of R-Studio.\
+The function [library()]{.crayon-inline} in line 3 lists all currently installed packages on your system. This list is also visible in the Files Pane of R-Studio (Packages tab). Keep in mind that packages must be installed only once and remain permanently installed, even after a restart of R-Studio.\
 Once installed, you have to load the package into your current R-session before you can use its functionalities by using [library()]{.crayon-inline} together with the package name:
 
-``` r
+```r
 library(ggplot2)    
 ```
 
-You can list all packages, wich are loaded in your current R session by using [search()]{.crayon-inline}. Activated packages also have a tick symbol next to their names in the Files pane (Packages tab) of R-Studio.
+You can list all packages, which are loaded in your current R session by using [search()]{.crayon-inline}. Activated packages also have a tick symbol next to their names in the Files pane (Packages tab) of R-Studio.
 
 [\
 ]{#ch2}
@@ -32,7 +36,7 @@ You can list all packages, wich are loaded in your current R session by using [s
 
 Of course, R can be used as a simple calculator. Required operators can be entered directly into the Console pane of R-Studio or as a whole script in the Source Pane, from which you can send the commands to the Console pane with **Ctrl+Enter**. Results are then immediately printed to the console. In this online course, corresponding outputs are also shown with two hash tags at the beginning of the line for better transparency and readability:
 
-``` r
+```r
 # hash tags allow you to make valuable notes and reminders 
 
 19 + 23      
@@ -51,10 +55,10 @@ Of course, R can be used as a simple calculator. Required operators can be enter
 ## [1] 20
 ```
 
-You will see a number in square brackets [$$1$$]{.crayon-inline} at the beginning of your output prompts. This number refers to the length of your output, i.e., the number of elements, which is 1 for all examples above. More on that in chapter [Vectors](https://blogs.fu-berlin.de/reseda/r-crash-course/#ch5). In addition to these standard operators, there were plenty of other operators commonly encountered in R:
+You will see a number in square brackets \[1\] at the beginning of your output prompts. This number refers to the length of your output, i.e., the number of elements, which is 1 for all examples above. More on that in chapter [Vectors](./Part-II/index.qmd). In addition to these standard operators, there were plenty of other operators commonly encountered in R:
 
 |                                                                                |                                                                      |
-|:------------------------------------------------------------------------------:|:---------------------------------------------------------------------|
+|:------------------------------------:|:---------------------------------|
 |               [  ?  ]{.crayon-inline .theme:amityresedaterminal}               | help function                                                        |
 |     [  +   --   /   \*   \^  ]{.crayon-inline .theme:amityresedaterminal}      | addition, subtraction, division, multiplication, potentiation        |
 |               [  !  ]{.crayon-inline .theme:amityresedaterminal}               | negation sign                                                        |
@@ -64,7 +68,7 @@ You will see a number in square brackets [$$1$$]{.crayon-inline} at the beginnin
 |              [  \~  ]{.crayon-inline .theme:amityresedaterminal}               | separate left- and right-hand sides in a model formula               |
 |               [  :  ]{.crayon-inline .theme:amityresedaterminal}               | generate regular sequences                                           |
 |              [  %%  ]{.crayon-inline .theme:amityresedaterminal}               | modulo                                                               |
-|      [  []  $$\[$$]  \$  \@  ]{.crayon-inline .theme:amityresedaterminal}      | indexing in vectors, matrices, and data frames                       |
+|                              \[  \[\[\]\]  \$  \@                              | indexing in vectors, matrices, and data frames                       |
 
 The help operator in R provides access to the documentation pages for R functions, data sets, and other objects, both for packages in the standard R distribution and for contributed packages. In order to access documentation for the sequence operator, for example, enter the command [?":"]{.crayon-inline} or [help(":")]{.crayon-inline}.
 
@@ -74,7 +78,7 @@ The help operator in R provides access to the documentation pages for R function
 
 In most cases, however, you will want to cache results of commands in order re-access them later on. Then, variables come into play. In R variables are defined using the [ \<- ]{.crayon-inline} operator. Although the output will not be printed to the Console pane directly, we store the variable in our temporary workspace. Thus, the variable should be visible under Values ​​in the Environment pane in R-Studio.
 
-``` r
+```r
 x <- 8 + 7         # assignment to variable x
 
 y <- 4 * 2         # assignment to variable y
@@ -82,7 +86,7 @@ y <- 4 * 2         # assignment to variable y
 
 We only get the value of the variable when we call its name as a command or look into the Environment pane. Further calculations with the variables are also possible:
 
-``` r
+```r
 x            
 ## [1] 15
 
@@ -106,7 +110,7 @@ A convention in R is to include points in variable names, e.g., [my.variable]{.c
 A function is a piece of code written to carry out a specific task. It can accept arguments and returns one or more values.\
 R standard packages offer several arithmetic built-in functions and constants, which make statistical analysis quite efficient. A function generally consists of a function name and two parentheses [ () ]{.crayon-inline}, in which arguments are given as input. Of course, previously created variables can serve as arguments for functions, too:
 
-``` r
+```r
 sqrt(64)           # square root 
 ## [1] 8
 
@@ -130,13 +134,13 @@ log10(a + b)       # logarithm (base 10)
 
 So, the best way to learn about the internal workings of a function is to write your own one. R allows to create user defined functions, whereby the basic construct of each function is the following:
 
-``` r
+```r
 name.of.fun( arguments ) { body }
 ```
 
 The code in between the curly braces is the body of the function. This is where you define all the commands your functions will perform. Let us write a function that calculates a normalized ratio of two numeric values! It is best to copy the following code into the script window, select everything and then execute the code. The function should then appear in the Environment window and can be called hereinafter.
 
-``` r
+```r
 my.fun <- function(var1, var2) {
   x <- (var1 - var2) / (var1 + var2)
   return(x)
@@ -145,7 +149,7 @@ my.fun <- function(var1, var2) {
 
 Explanation: Use [function()]{.crayon-inline} to create a new function and assign it to any variable, e.g.,[my.fun]{.crayon-inline}. The two arguments [var1]{.crayon-inline} and [var2]{.crayon-inline} are placeholders for variables that are assigned when this function is called. Operations of the function are defined between the curly braces [{}]{.crayon-inline}. Intermediate results, i.e., the [x]{.crayon-inline} in our example, exist locally within the function -- they do not appear in the Environment window. Only variables given to the [return]{.crayon-inline} function can be saved as a variable. The function call is done via:
 
-``` r
+```r
 result <- my.fun(42, 13)
 result 
 ## [1] 0.5272727

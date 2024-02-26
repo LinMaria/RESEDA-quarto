@@ -5,7 +5,7 @@
 
 ::: entry-content
 
-# 5. Vectors
+# 5. Vectors {#vectors}
 
 In R data can be represented in different structure types. Four main types are differentiated: vectors, matrices, lists and data frames. A conversion of these is possible with the corresponding functions [as.vector()]{.crayon-inline}, [as.matrix()]{.crayon-inline}, [as.list()]{.crayon-inline}, or [as.data.frame()]{.crayon-inline}.\
 Let us have a look at the most basic of those data types: vectors.\
@@ -23,7 +23,8 @@ There are six atomic vector types in R. In this context, "atomic" means that vec
 
 Thus, a vector is a simple collection of elements (e.g., character, integer, ...) containing only objects of the same class. Imagine a vector like a sequence of cells containing data. Vectors of different types can be generated via the [c()]{.crayon-inline} function ("c" like combine):
 
-``` r
+```r
+
 a <- c("Hello", "World")    # character/ string 
 
 class(a)
