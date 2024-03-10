@@ -49,25 +49,18 @@
     "text": "Page not found, sorry! Try the search or navigate back to the base website."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "projects/posts/post-with-code/index.html",
+    "href": "projects/posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nto your Remote Sensing Data Analysis online course, or RESEDA for short!\nThis course helps you improve your analysis of remote sensing image data for the next data science project or thesis. We will have a look at basic and advanced concepts needed for a complete project implementation using remote sensing imagery – with a special focus on automatisation of individual operations and big data processing. This course will provide a great deal of knowledge and valuable expertise for all related fields of environmental earth sciences!\nFor that purpose we will mainly use the statistical programming language R in a Linux environment – but please don’t panic, it’s not as bad as it sounds: You will be led through a complete analysis process, from data acquisition, to import, exploration and finally the export of your results, guided by a lot of reproduceable examples, exercises and pretty pictures!\nKeep in mind that this course content complements and extends the material covered in the classes Fernerkundung und Digitale Bildverarbeitung and Geographische Informationssysteme, both being taught at the Freie Universität Berlin.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "The aim of FutureForest is to use artificial intelligence (AI) methods to provide information that can support climate-adapted forest conversion.\nOngoing Projects\n\nFutureForest (future-forest.eu): The aim of FutureForest is to use artificial intelligence (AI) methods to provide information that can support climate-adapted forest conversion. The effects of different climate forecasts and forest conversion scenarios are to be simulated and the possible effects of different management methods are to be assessed.\nMain tasks of FU Berlin include:\n\n\nSentinel-2 time series based detection of forest damaged areas in Germany\nOperational \"near real-time\" monitoring using Deep Learning\n\n\n\nEarly detection of damaged areas\nProvision of a Germany-wide map of current forest damage/warnings\n\nUAV based analysis of the deciduous forests under drought stress in the historical garden districts of Berlin and Potsdam in 2020 (in cooperation with „Stiftung Preußische Schlösser & Gärten Berlin-Brandenburg” (SPSG) and „Grünflächenamt Berlin Steglitz-Zehlendorf”\n\nYou can visit the live dashboard of the Installation site here."
   },
   {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Welcome",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nThis online course is divided into separate sections covering particular topics, which together provide a whole workflow commonly used for remote sensing imagery. Although the sections are built on one another and we recommend to handle them in given order, feel free to skip parts you are already comfortable with and focus on the chapters you are interested in. In almost every section you will come across exercises, e.g., multiple choice questionnaires or coding exercises to proof your comprehension of previous sections.\nLet us have a look at the learning objectives and checkpoints of each individual section:\n\nPrepare Yourself\ninstall our VirtualBox containing all required software get used to the GUIs of R-Studio, QGIS and SNAP refresh basics of the programming language R (if needed)\n\n\nAcquire Data\n\nrepeat basics of optical and radar imagery\nbecome familiar with online data provider and HUBs\nautomatically download many images using bulk downloads\n\n\n\nAnalyse Your Data\n\nrepeat basics of classification and regression tasks\nclassify image data in R with Random Forest and SVM\nvisualize results in R and QGIS\n\n\n\nValidate Results\n\nrepeat validation basics\nvalidate results in R with state of the art methods\n\n\n\nSAR Processing\n\nget deeper insights in SAR processing\nprocess Sentinel imagery in SNAP\nlearn to do InSAR and texture analysis\n\nWe wish you a lot of creative ideas, much findings and great results!\nBest regards, your FU Berlin Remote Sensing and Geoinformatics staff"
-  },
-  {
-    "objectID": "About/cv.html",
-    "href": "About/cv.html",
-    "title": "Curriculum vitae",
+    "objectID": "projects/about.html",
+    "href": "projects/about.html",
+    "title": "About",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "About this blog"
   },
   {
     "objectID": "About/index.html",
@@ -119,25 +112,39 @@
     "text": "Freie Universität Berlin is a statutory body under public law in accordance with §§1 and 2 of the Berlin Law Relating to Institutions of Higher Learning (Berliner Hochschulgesetz, BerlHG). The web site of Freie Universität Berlin is subject to current copyright law. Please also take notice of our disclaimer."
   },
   {
+    "objectID": "About/cv.html",
+    "href": "About/cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nto your Remote Sensing Data Analysis online course, or RESEDA for short!\nThis course helps you improve your analysis of remote sensing image data for the next data science project or thesis. We will have a look at basic and advanced concepts needed for a complete project implementation using remote sensing imagery – with a special focus on automatisation of individual operations and big data processing. This course will provide a great deal of knowledge and valuable expertise for all related fields of environmental earth sciences!\nFor that purpose we will mainly use the statistical programming language R in a Linux environment – but please don’t panic, it’s not as bad as it sounds: You will be led through a complete analysis process, from data acquisition, to import, exploration and finally the export of your results, guided by a lot of reproduceable examples, exercises and pretty pictures!\nKeep in mind that this course content complements and extends the material covered in the classes Fernerkundung und Digitale Bildverarbeitung and Geographische Informationssysteme, both being taught at the Freie Universität Berlin.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Welcome",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nThis online course is divided into separate sections covering particular topics, which together provide a whole workflow commonly used for remote sensing imagery. Although the sections are built on one another and we recommend to handle them in given order, feel free to skip parts you are already comfortable with and focus on the chapters you are interested in. In almost every section you will come across exercises, e.g., multiple choice questionnaires or coding exercises to proof your comprehension of previous sections.\nLet us have a look at the learning objectives and checkpoints of each individual section:\n\nPrepare Yourself\ninstall our VirtualBox containing all required software get used to the GUIs of R-Studio, QGIS and SNAP refresh basics of the programming language R (if needed)\n\n\nAcquire Data\n\nrepeat basics of optical and radar imagery\nbecome familiar with online data provider and HUBs\nautomatically download many images using bulk downloads\n\n\n\nAnalyse Your Data\n\nrepeat basics of classification and regression tasks\nclassify image data in R with Random Forest and SVM\nvisualize results in R and QGIS\n\n\n\nValidate Results\n\nrepeat validation basics\nvalidate results in R with state of the art methods\n\n\n\nSAR Processing\n\nget deeper insights in SAR processing\nprocess Sentinel imagery in SNAP\nlearn to do InSAR and texture analysis\n\nWe wish you a lot of creative ideas, much findings and great results!\nBest regards, your FU Berlin Remote Sensing and Geoinformatics staff"
+  },
+  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
+    "title": "Research projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "Future Forest\n\n\n\n\n\n\n\nOngoing\n\n\nsentinel-2\n\n\nforest damage\n\n\n\n\n\n\n\n\n\n\n\nMar 9, 2024\n\n\nRemote sensing & geoinformatics group\n\n\n\n\n\n\n  \n\n\n\n\nMOFA\n\n\n\n\n\n\n\nCompleted\n\n\nmultitemporal\n\n\nmultisensor\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2014\n\n\nBjörn Waske\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
+    "objectID": "projects/posts/welcome/index.html",
+    "href": "projects/posts/welcome/index.html",
+    "title": "MOFA",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+    "text": "Monitoring Farmland Abandonment by multitemporal and multisensor remote sensing imagery (MOFA)\n\nThe research project studies an area in the border region of Poland and Ukraine. With the fall of the Iron Curtain the region experienced drastic changes in political and socio- economic structures. Large farmland areas become abandoned and gradual processes of forest succession take place on the abandoned land. The aim of the project is the development of adequate strategies to monitor farmland abandonment, using multitemporal SAR and multispectral remote sensing data.\n\n\n\nFinally enhanced maps should be provided, which enable more detailed analysis of the gradual process of land cover transitions. (PI: B. Waske, funding: German Research Foundation (DFG) WA 2728/2-1)\nThus, remote sensing based mapping offers great opportunities to map these phenomena and ultimately to better understand patterns, processes and underlying causes. Existing studies are based on multispectral imagery, abandonment maps, however, are difficult to obtain due to spectral ambiguities, phenological variability and limited data availability. SAR data can overcome these problems and different remote sensing studies demonstrated the potential of multisensor imagery. The aim of the project is the development of adequate strategies to monitor farmland abandonment, using multitemporal SAR and multispectral remote sensing data. Finally enhanced maps should be provided, which enable more detailed analysis of the gradual process of land cover transitions.\nThe study site within the border region of Poland and Ukraine (© Google, 2012)\n\n\nProject Duration: 01/2012 - 12/2014\nPrincipal Investigator: Björn Waske\nProjects staff: Jan Stefanski (University Bonn)\nProject partners:\nProf. Dr. Tobias Kümmerle, Biogeography and Conservation Biology Group, Humboldt-University of Berlin\nDr. Oleh Chaskovskyy, Ukrainian National Forestry University, Lviv (Ukraine)\nDr. hab. Jacek Kozak, Department of GIS, Cartography and Remote Sensing, Jagiellonian University, Kraków (Poland)\nFunding: DFG - German Research Foundation (WA 2728/2-1)"
   },
   {
     "objectID": "quarto-website-template-main/cv/index.html",

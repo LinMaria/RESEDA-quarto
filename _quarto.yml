@@ -74,7 +74,7 @@ format:
       
     fontsize: 1.1em
     theme: 
-      - pulse
+      - sadstone
       - html/styles.scss
     toc: false
     code-link: true
