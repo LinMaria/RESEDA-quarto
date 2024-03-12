@@ -5,5 +5,12 @@
       "/projects/posts/post-with-code/index.html",
       "/projects/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/staff/index.html",
+    "items": [
+      "/staff/people/FabianFassnach - copia.html",
+      "/staff/people/MarionStellmes.html"
+    ]
   }
 ]

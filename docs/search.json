@@ -53,77 +53,7 @@
     "href": "projects/posts/post-with-code/index.html",
     "title": "Future Forest",
     "section": "",
-    "text": "The aim of FutureForest is to use artificial intelligence (AI) methods to provide information that can support climate-adapted forest conversion.\nOngoing Projects\n\nFutureForest (future-forest.eu): The aim of FutureForest is to use artificial intelligence (AI) methods to provide information that can support climate-adapted forest conversion. The effects of different climate forecasts and forest conversion scenarios are to be simulated and the possible effects of different management methods are to be assessed.\nMain tasks of FU Berlin include:\n\n\nSentinel-2 time series based detection of forest damaged areas in Germany\nOperational \"near real-time\" monitoring using Deep Learning\n\n\n\nEarly detection of damaged areas\nProvision of a Germany-wide map of current forest damage/warnings\n\nUAV based analysis of the deciduous forests under drought stress in the historical garden districts of Berlin and Potsdam in 2020 (in cooperation with „Stiftung Preußische Schlösser & Gärten Berlin-Brandenburg” (SPSG) and „Grünflächenamt Berlin Steglitz-Zehlendorf”\n\nYou can visit the live dashboard of the Installation site here."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nto your Remote Sensing Data Analysis online course, or RESEDA for short!\nThis course helps you improve your analysis of remote sensing image data for the next data science project or thesis. We will have a look at basic and advanced concepts needed for a complete project implementation using remote sensing imagery – with a special focus on automatisation of individual operations and big data processing. This course will provide a great deal of knowledge and valuable expertise for all related fields of environmental earth sciences!\nFor that purpose we will mainly use the statistical programming language R in a Linux environment – but please don’t panic, it’s not as bad as it sounds: You will be led through a complete analysis process, from data acquisition, to import, exploration and finally the export of your results, guided by a lot of reproduceable examples, exercises and pretty pictures!\nKeep in mind that this course content complements and extends the material covered in the classes Fernerkundung und Digitale Bildverarbeitung and Geographische Informationssysteme, both being taught at the Freie Universität Berlin.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
-  },
-  {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Welcome",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nThis online course is divided into separate sections covering particular topics, which together provide a whole workflow commonly used for remote sensing imagery. Although the sections are built on one another and we recommend to handle them in given order, feel free to skip parts you are already comfortable with and focus on the chapters you are interested in. In almost every section you will come across exercises, e.g., multiple choice questionnaires or coding exercises to proof your comprehension of previous sections.\nLet us have a look at the learning objectives and checkpoints of each individual section:\n\nPrepare Yourself\ninstall our VirtualBox containing all required software get used to the GUIs of R-Studio, QGIS and SNAP refresh basics of the programming language R (if needed)\n\n\nAcquire Data\n\nrepeat basics of optical and radar imagery\nbecome familiar with online data provider and HUBs\nautomatically download many images using bulk downloads\n\n\n\nAnalyse Your Data\n\nrepeat basics of classification and regression tasks\nclassify image data in R with Random Forest and SVM\nvisualize results in R and QGIS\n\n\n\nValidate Results\n\nrepeat validation basics\nvalidate results in R with state of the art methods\n\n\n\nSAR Processing\n\nget deeper insights in SAR processing\nprocess Sentinel imagery in SNAP\nlearn to do InSAR and texture analysis\n\nWe wish you a lot of creative ideas, much findings and great results!\nBest regards, your FU Berlin Remote Sensing and Geoinformatics staff"
-  },
-  {
-    "objectID": "About/cv.html",
-    "href": "About/cv.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "About/index.html",
-    "href": "About/index.html",
-    "title": "About",
-    "section": "",
-    "text": "Freie Universität Berlin – represented by the President –\n\n\n\nFreie Universität Berlin\nOffice of the President\nKaiserswerther Str. 16/18\n14195 Berlin\n\n\n\nDE 811304768\n\n\n\nM.Sc. Johannes Rosentreter (Web content development)\nE-mail: rosentreter.johannes@gmail.de\nPhone:\nDipl.-Ing. Kristin Fenske (Web content development)\nE-mail: kristin.fenske@fu-berlin.de\nPhone: (+49 30) 838 65326\nProf. Dr. Hannes Feilhauer (Content-related support)\nE-mail: hfeilhauer@zedat.fu-berlin.de\nPhone: (+49 30) 838 66172\nDr. Marion Stellmes (Content-related support)\nE-mail: marion.stellmes@fu-berlin.de\nPhone: (+49 30) 838 61978\nDipl. Geog. Rolf Rissiek (Laboratory assistance)\nE-mail: rolf.rissiek@fu-berlin.de\nPhone: (+49 30) 838 70263\n\n\n\nSee our Privacy Policy\n\n\n\nFreie Universität Berlin is a statutory body under public law in accordance with §§1 and 2 of the Berlin Law Relating to Institutions of Higher Learning (Berliner Hochschulgesetz, BerlHG). The web site of Freie Universität Berlin is subject to current copyright law. Please also take notice of our disclaimer."
-  },
-  {
-    "objectID": "About/index.html#institution",
-    "href": "About/index.html#institution",
-    "title": "About",
-    "section": "",
-    "text": "Freie Universität Berlin – represented by the President –"
-  },
-  {
-    "objectID": "About/index.html#address",
-    "href": "About/index.html#address",
-    "title": "About",
-    "section": "",
-    "text": "Freie Universität Berlin\nOffice of the President\nKaiserswerther Str. 16/18\n14195 Berlin"
-  },
-  {
-    "objectID": "About/index.html#turnover-tax-id",
-    "href": "About/index.html#turnover-tax-id",
-    "title": "About",
-    "section": "",
-    "text": "DE 811304768"
-  },
-  {
-    "objectID": "About/index.html#web-content-editors",
-    "href": "About/index.html#web-content-editors",
-    "title": "About",
-    "section": "",
-    "text": "M.Sc. Johannes Rosentreter (Web content development)\nE-mail: rosentreter.johannes@gmail.de\nPhone:\nDipl.-Ing. Kristin Fenske (Web content development)\nE-mail: kristin.fenske@fu-berlin.de\nPhone: (+49 30) 838 65326\nProf. Dr. Hannes Feilhauer (Content-related support)\nE-mail: hfeilhauer@zedat.fu-berlin.de\nPhone: (+49 30) 838 66172\nDr. Marion Stellmes (Content-related support)\nE-mail: marion.stellmes@fu-berlin.de\nPhone: (+49 30) 838 61978\nDipl. Geog. Rolf Rissiek (Laboratory assistance)\nE-mail: rolf.rissiek@fu-berlin.de\nPhone: (+49 30) 838 70263"
-  },
-  {
-    "objectID": "About/index.html#privacy-statement",
-    "href": "About/index.html#privacy-statement",
-    "title": "About",
-    "section": "",
-    "text": "See our Privacy Policy"
-  },
-  {
-    "objectID": "About/index.html#legal-form",
-    "href": "About/index.html#legal-form",
-    "title": "About",
-    "section": "",
-    "text": "Freie Universität Berlin is a statutory body under public law in accordance with §§1 and 2 of the Berlin Law Relating to Institutions of Higher Learning (Berliner Hochschulgesetz, BerlHG). The web site of Freie Universität Berlin is subject to current copyright law. Please also take notice of our disclaimer."
+    "text": "The aim of FutureForest is to use artificial intelligence (AI) methods to provide information that can support climate-adapted forest conversion.\nOngoing Projects\n\nFutureForest (future-forest.eu): The aim of FutureForest is to use artificial intelligence (AI) methods to provide information that can support climate-adapted forest conversion. The effects of different climate forecasts and forest conversion scenarios are to be simulated and the possible effects of different management methods are to be assessed. Main tasks of FU Berlin include:\n\nSentinel-2 time series based detection of forest damaged areas in Germany\nOperational \"near real-time\" monitoring using Deep Learning\n\n\n\nEarly detection of damaged areas\nProvision of a Germany-wide map of current forest damage/warnings\n\nUAV based analysis of the deciduous forests under drought stress in the historical garden districts of Berlin and Potsdam in 2020 (in cooperation with „Stiftung Preußische Schlösser & Gärten Berlin-Brandenburg” (SPSG) and „Grünflächenamt Berlin Steglitz-Zehlendorf”\n\nYou can visit the live dashboard of the Installation site here."
   },
   {
     "objectID": "projects/index.html",
@@ -180,5 +110,75 @@
     "title": "Part V",
     "section": "",
     "text": "Part V\n\n\n\n9. Missing values\nSometimes observations (rows) in a data frame are incomplete. The correct handling of missing values is especially needed in statistical evaluations. Missing values are indicated by the symbol NA (Not Available). Non-possible values (e.g., division by 0) are described by the symbol NaN (Not a Number). For test purposes, we artificially define two elements as NA in our df:\ndf &lt;- data.frame(\n  \"name\" = c(\"Ben\", \"Hanna\", \"Paul\", \"Arthur\"), \n  \"size\" = c(185, 166, 175, 190)\n  )\n\ndf\n##     name size\n## 1    Ben  185\n## 2  Hanna  166\n## 3   Paul  175\n## 4 Arthur  190\n\ndf[1:2, 2] &lt;- NA              # generate NAs\ndf\n##     name size\n## 1    Ben   NA\n## 2  Hanna   NA\n## 3   Paul  175\n## 4 Arthur  190\n\nmean(df$size)                 # mean with NAs\n## [1] NA\n\nmean(df$size, na.rm=TRUE)     # mean with ignoring NAs\n## [1] 182.5\nOften it makes more sense to record the observations with missing values and to exclude them from your dataset. For detection we can use the is.na() function to create a logical vector. This outputs a TRUE for every NA value, a FALSE for every element present. Using the logical vector we can then index our data frame:\nis.na(df$size)               # logical vector (TRUE for all rows with NAs)\n## [1]  TRUE  TRUE FALSE FALSE\n\ndf[is.na(df$size), ]         # index using logical vector\n##    name size\n## 1   Ben   NA\n## 2 Hanna   NA\n\ndf[complete.cases(df), ]     # get all rows without NAs\n##     name size\n## 3   Paul  175\n## 4 Arthur  190\n\n\n\n\n10. Control Structures\nControl structures allow better control over the execution of our scripts, e.g., if, if else, else, while, switch, repeat, break, return …\nUse the help function for a more detailed documentation.\nThe IF statement\nUse the if / else command to perform simple queries on all data types. The Microsoft Excel equivalent would be the “IF” feature. In R, the syntax is as follows:\nx &lt;- 3                                # define x\n\nx &lt;= 4                                # logical condition\n## [1] TRUE\n\nif (x &lt;= 4) {\n  print(\"x is smaller than or equal to 4!\")    \n} else {\n  print(\"x is larger than 4!\")        \n}\n## [1] \"x is smaller than or equal to 4!\"\nExplanation: An IF-command needs three parts: the keyword if(), a condition that results in a single logical output x &lt;= 4 and a block of code in curly braces {}, which is executed if the expression is TRUE. So, if the condition is TRUE, the code will run in curly brackets after the IF-command. If the condition is FALSE, the code block after the elseis executed.\nThe print() function outputs the strings in the parentheses to the console window. Here we need the print() function so that the output can be written out of the IF-function, similar to return(see chapter 5). A vectorized (and therefore more efficient) notation is the following:\nx &lt;- c(3, 4, 5, 6, 7)                                \n\nifelse(x &lt;=4, \"x is smaller than or equal to 4!\", \"x is larger than 4!\")\n## [1] \"x is smaller than or equal to 4!\" \"x is smaller than or equal to 4!\"\n## [3] \"x is larger than 4!\"              \"x is larger than 4!\"             \n## [5] \"x is larger than 4!\"\nUsing ifelse(), the condition for each individual element is determined as a vector. This is helpful, e.g., if we want to categorize data!\nThe FOR loop\nLoops are incredibly useful when certain tasks need to be repeated very often in the script. A for loop is based on an iterable variable of defined length. But what does that mean? We define any variable, e.g., i, with a start integer value, e.g, 1. We then increment this integer value until a second integer value, e.g. 8, is reached. This can be done via the sequence operator ::\nfor (i in 1:8) {\n  print(i)\n}\n## [1] 1\n## [1] 2\n## [1] 3\n## [1] 4\n## [1] 5\n## [1] 6\n## [1] 7\n## [1] 8\nThe practical thing: The code in curly brackets is automatically executed once each time (eight times in total)! And we can meanwhile pick up the expression of our variable i, in order to print it or index a vector with it and much more:\nv &lt;- c(23, 54, 12, 59, 67, 45)    # create integer vector\n\nlength(v)                         # check length of vector\n## [1] 6\n  \nfor (i in 1:length(v)) {          # iterate length(v) times\n  print(v[i])\n}\n## [1] 23\n## [1] 54\n## [1] 12\n## [1] 59\n## [1] 67\n## [1] 45\nIt is also possible to set the variable / iterator equal to the elements of the vector instead of an integer value for indexing. The information in which run the loop is, however, is initially lost:\nv &lt;- c(\"R\", \"is\", \"still\", \"fun\")    \n\nfor (i in v) {\n  print(i)\n}\n## [1] \"R\"\n## [1] \"is\"\n## [1] \"still\"\n## [1] \"fun\"\nNow, have a look at exercise V:"
+  },
+  {
+    "objectID": "staff/index.html",
+    "href": "staff/index.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Fabian Faßnach\n\n\n\n\n\n\nRemote sensing & geoinformatics group\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarion Stellmes\n\n\n\n\n\n\nRemote sensing & geoinformatics group\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nto your Remote Sensing Data Analysis online course, or RESEDA for short!\nThis course helps you improve your analysis of remote sensing image data for the next data science project or thesis. We will have a look at basic and advanced concepts needed for a complete project implementation using remote sensing imagery – with a special focus on automatisation of individual operations and big data processing. This course will provide a great deal of knowledge and valuable expertise for all related fields of environmental earth sciences!\nFor that purpose we will mainly use the statistical programming language R in a Linux environment – but please don’t panic, it’s not as bad as it sounds: You will be led through a complete analysis process, from data acquisition, to import, exploration and finally the export of your results, guided by a lot of reproduceable examples, exercises and pretty pictures!\nKeep in mind that this course content complements and extends the material covered in the classes Fernerkundung und Digitale Bildverarbeitung and Geographische Informationssysteme, both being taught at the Freie Universität Berlin.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Welcome",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nThis online course is divided into separate sections covering particular topics, which together provide a whole workflow commonly used for remote sensing imagery. Although the sections are built on one another and we recommend to handle them in given order, feel free to skip parts you are already comfortable with and focus on the chapters you are interested in. In almost every section you will come across exercises, e.g., multiple choice questionnaires or coding exercises to proof your comprehension of previous sections.\nLet us have a look at the learning objectives and checkpoints of each individual section:\n\nPrepare Yourself\ninstall our VirtualBox containing all required software get used to the GUIs of R-Studio, QGIS and SNAP refresh basics of the programming language R (if needed)\n\n\nAcquire Data\n\nrepeat basics of optical and radar imagery\nbecome familiar with online data provider and HUBs\nautomatically download many images using bulk downloads\n\n\n\nAnalyse Your Data\n\nrepeat basics of classification and regression tasks\nclassify image data in R with Random Forest and SVM\nvisualize results in R and QGIS\n\n\n\nValidate Results\n\nrepeat validation basics\nvalidate results in R with state of the art methods\n\n\n\nSAR Processing\n\nget deeper insights in SAR processing\nprocess Sentinel imagery in SNAP\nlearn to do InSAR and texture analysis\n\nWe wish you a lot of creative ideas, much findings and great results!\nBest regards, your FU Berlin Remote Sensing and Geoinformatics staff"
+  },
+  {
+    "objectID": "About/index.html",
+    "href": "About/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Freie Universität Berlin – represented by the President –\n\n\n\nFreie Universität Berlin\nOffice of the President\nKaiserswerther Str. 16/18\n14195 Berlin\n\n\n\nDE 811304768\n\n\n\nM.Sc. Johannes Rosentreter (Web content development)\nE-mail: rosentreter.johannes@gmail.de\nPhone:\nDipl.-Ing. Kristin Fenske (Web content development)\nE-mail: kristin.fenske@fu-berlin.de\nPhone: (+49 30) 838 65326\nProf. Dr. Hannes Feilhauer (Content-related support)\nE-mail: hfeilhauer@zedat.fu-berlin.de\nPhone: (+49 30) 838 66172\nDr. Marion Stellmes (Content-related support)\nE-mail: marion.stellmes@fu-berlin.de\nPhone: (+49 30) 838 61978\nDipl. Geog. Rolf Rissiek (Laboratory assistance)\nE-mail: rolf.rissiek@fu-berlin.de\nPhone: (+49 30) 838 70263\n\n\n\nSee our Privacy Policy\n\n\n\nFreie Universität Berlin is a statutory body under public law in accordance with §§1 and 2 of the Berlin Law Relating to Institutions of Higher Learning (Berliner Hochschulgesetz, BerlHG). The web site of Freie Universität Berlin is subject to current copyright law. Please also take notice of our disclaimer."
+  },
+  {
+    "objectID": "About/index.html#institution",
+    "href": "About/index.html#institution",
+    "title": "About",
+    "section": "",
+    "text": "Freie Universität Berlin – represented by the President –"
+  },
+  {
+    "objectID": "About/index.html#address",
+    "href": "About/index.html#address",
+    "title": "About",
+    "section": "",
+    "text": "Freie Universität Berlin\nOffice of the President\nKaiserswerther Str. 16/18\n14195 Berlin"
+  },
+  {
+    "objectID": "About/index.html#turnover-tax-id",
+    "href": "About/index.html#turnover-tax-id",
+    "title": "About",
+    "section": "",
+    "text": "DE 811304768"
+  },
+  {
+    "objectID": "About/index.html#web-content-editors",
+    "href": "About/index.html#web-content-editors",
+    "title": "About",
+    "section": "",
+    "text": "M.Sc. Johannes Rosentreter (Web content development)\nE-mail: rosentreter.johannes@gmail.de\nPhone:\nDipl.-Ing. Kristin Fenske (Web content development)\nE-mail: kristin.fenske@fu-berlin.de\nPhone: (+49 30) 838 65326\nProf. Dr. Hannes Feilhauer (Content-related support)\nE-mail: hfeilhauer@zedat.fu-berlin.de\nPhone: (+49 30) 838 66172\nDr. Marion Stellmes (Content-related support)\nE-mail: marion.stellmes@fu-berlin.de\nPhone: (+49 30) 838 61978\nDipl. Geog. Rolf Rissiek (Laboratory assistance)\nE-mail: rolf.rissiek@fu-berlin.de\nPhone: (+49 30) 838 70263"
+  },
+  {
+    "objectID": "About/index.html#privacy-statement",
+    "href": "About/index.html#privacy-statement",
+    "title": "About",
+    "section": "",
+    "text": "See our Privacy Policy"
+  },
+  {
+    "objectID": "About/index.html#legal-form",
+    "href": "About/index.html#legal-form",
+    "title": "About",
+    "section": "",
+    "text": "Freie Universität Berlin is a statutory body under public law in accordance with §§1 and 2 of the Berlin Law Relating to Institutions of Higher Learning (Berliner Hochschulgesetz, BerlHG). The web site of Freie Universität Berlin is subject to current copyright law. Please also take notice of our disclaimer."
   }
 ]

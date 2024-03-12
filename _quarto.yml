@@ -2,7 +2,7 @@
 
 # website settings
 website:
-  title: "RESEDA"                                # Your name
+  #title: "RESEDA"        # Your name
   description: "RESEDA - Basics of remote sensing"   # A brief slogan (optional)
   image: img/reseda-logo.png
   page-navigation: true
@@ -12,14 +12,18 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/RSG-Logo-RGB.png
     
     # your sub-pages
     left:
       - text: "Projects"
         href: projects/index.qmd
+      - text: "Staff"
+        href: staff/index.qmd
       - text: "R Crash Course"
         href: R-Crash-Course/index.qmd
+      - text: "RESEDA"
+        href: RESEDA/index.qmd
       - text: "About"
         href: About/index.qmd
     

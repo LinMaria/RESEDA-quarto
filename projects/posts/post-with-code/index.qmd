@@ -17,8 +17,8 @@ The aim of FutureForest is to use artificial intelligence (AI) methods to provid
     to provide information that can support climate-adapted forest
     conversion. The effects of different climate forecasts and forest
     conversion scenarios are to be simulated and the possible effects of
-    different management methods are to be assessed.\
-    Main tasks of FU Berlin include:\
+    different management methods are to be assessed.
+    Main tasks of FU Berlin include:
     -   Sentinel-2 time series based detection of forest damaged areas
         in Germany
     -   Operational \"near real-time\" monitoring using Deep Learning
