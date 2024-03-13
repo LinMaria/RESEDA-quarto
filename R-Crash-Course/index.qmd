@@ -1,6 +1,6 @@
 ---
 page-layout: full
-sidebar: sidebar1
+sidebar: true
 ---
 
 ::: {#main .site-main role="main"}

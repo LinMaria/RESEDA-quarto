@@ -5,8 +5,9 @@ about:
   template: trestles
   id: about
 page-layout: full
-sidebar: sidebar1
+sidebar: true
 ---
+
 
 :::{#about}
 
