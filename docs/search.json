@@ -180,5 +180,19 @@
     "title": "About",
     "section": "",
     "text": "Freie Universität Berlin is a statutory body under public law in accordance with §§1 and 2 of the Berlin Law Relating to Institutions of Higher Learning (Berliner Hochschulgesetz, BerlHG). The web site of Freie Universität Berlin is subject to current copyright law. Please also take notice of our disclaimer."
+  },
+  {
+    "objectID": "RESEDA/index.html",
+    "href": "RESEDA/index.html",
+    "title": "RESEDA",
+    "section": "",
+    "text": "to your Remote Sensing Data Analysis online course, or RESEDA for short!\nThis course helps you improve your analysis of remote sensing image data for the next data science project or thesis. We will have a look at basic and advanced concepts needed for a complete project implementation using remote sensing imagery – with a special focus on automatisation of individual operations and big data processing. This course will provide a great deal of knowledge and valuable expertise for all related fields of environmental earth sciences!\nFor that purpose we will mainly use the statistical programming language R in a Linux environment – but please don’t panic, it’s not as bad as it sounds: You will be led through a complete analysis process, from data acquisition, to import, exploration and finally the export of your results, guided by a lot of reproduceable examples, exercises and pretty pictures!\nKeep in mind that this course content complements and extends the material covered in the classes Fernerkundung und Digitale Bildverarbeitung and Geographische Informationssysteme, both being taught at the Freie Universität Berlin.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "RESEDA/index.html#learning-objectives",
+    "href": "RESEDA/index.html#learning-objectives",
+    "title": "RESEDA",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nThis online course is divided into separate sections covering particular topics, which together provide a whole workflow commonly used for remote sensing imagery. Although the sections are built on one another and we recommend to handle them in given order, feel free to skip parts you are already comfortable with and focus on the chapters you are interested in. In almost every section you will come across exercises, e.g., multiple choice questionnaires or coding exercises to proof your comprehension of previous sections.\nLet us have a look at the learning objectives and checkpoints of each individual section:\n\nPrepare Yourself\ninstall our VirtualBox containing all required software get used to the GUIs of R-Studio, QGIS and SNAP refresh basics of the programming language R (if needed)\n\n\nAcquire Data\n\nrepeat basics of optical and radar imagery\nbecome familiar with online data provider and HUBs\nautomatically download many images using bulk downloads\n\n\n\nAnalyse Your Data\n\nrepeat basics of classification and regression tasks\nclassify image data in R with Random Forest and SVM\nvisualize results in R and QGIS\n\n\n\nValidate Results\n\nrepeat validation basics\nvalidate results in R with state of the art methods\n\n\n\nSAR Processing\n\nget deeper insights in SAR processing\nprocess Sentinel imagery in SNAP\nlearn to do InSAR and texture analysis\n\nWe wish you a lot of creative ideas, much findings and great results!\nBest regards, your FU Berlin Remote Sensing and Geoinformatics staff"
   }
 ]

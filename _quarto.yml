@@ -40,10 +40,11 @@ website:
         href: "mailto:mail.marvinschmitt@gmail.com"  
         
   sidebar: 
-    - title: "R Crash Course"
-      style: "docked"
-      background: light
-      contents: R-Crash-Course 
+    title: false
+    id: 'sidebar1'
+    style: "docked"
+    background: gray-400
+    contents: contents/
   
 
 # Don't touch unless you know what you are doing :) ------------
